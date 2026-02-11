@@ -1,3 +1,5 @@
 Belajar Git_day1
 Update day 1 : Bisa push ke github
 Update day 1 : nyoba pake branch git
+Update day 1 : nyoba merge conflict
+
