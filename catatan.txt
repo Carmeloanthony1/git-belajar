@@ -1,1 +1,2 @@
 Belajar Git_day1
+Update day 1 : Bisa push ke github
