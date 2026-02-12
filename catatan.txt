@@ -5,3 +5,5 @@ Update day 1 : nyoba merge conflict
 Update day 1 : ini masih nyoba merge conflict
 Update day 1 : belajar lagi dan perdalam merge conflict
 update dat 1 : pull request github
+update day 2 : perlancar
+
