@@ -1,0 +1,27 @@
+.container {
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 20px; /* Prevents text from hitting the edge on mobile */
+}
+
+.video-content {
+    /* Use max-width so it scales down on small phones */
+    width: 90%;
+    max-width: 400px; 
+    
+    /* Using aspect-ratio is better than fixed height for videos */
+    aspect-ratio: 1 / 1; 
+    
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(255, 255, 255, 0.1); /* Adds a subtle glow */
+    margin-bottom: 25px;
+}
+
+/* Tip: Style your text too! */
